@@ -33,5 +33,10 @@ Reference for each minted data source for your output data.
 | <model 2> | <version> | <link to code repository> | <link to DOI dataset> |
 
 ## Reproduce my experiement
-Fill in detailed info here or link to other documentation that is a thorough walkthrough of how to use what is in this repository to reproduce your experiment.
+The steps below are a brief overview. A more detailed user guide for GCAM is available at http://jgcri.github.io/gcam-doc/user-guide.html.
 
+1. Download GCAM executable.
+
+2. Run the run_gcam.bat file (e.g., by double-clicking on it in Windows)
+
+3. Use the Model Interface to View Outputs
