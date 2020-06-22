@@ -29,8 +29,7 @@ Reference for each minted data source for your output data.
 ## Contributing models
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
-| <model 1> | <version> | <link to code repository> | <link to DOI dataset> |
-| <model 2> | <version> | <link to code repository> | <link to DOI dataset> |
+| GCAM | 5.1 |  | https://doi.org/10.5281/zenodo.3897519 |
 
 ## Reproduce my experiement
 The steps below are a brief overview. A more detailed user guide for GCAM is available at http://jgcri.github.io/gcam-doc/user-guide.html.
